@@ -16,8 +16,7 @@ import org.springframework.security.web.authentication.AbstractAuthenticationPro
 import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-
-import br.com.estudo.Cors.Controllers.AccountCredentials;
+import br.com.estudo.Cors.Models.AccountCredentials;
 
 public class JWTLoginFilter extends AbstractAuthenticationProcessingFilter {
 

@@ -1,4 +1,4 @@
-package br.com.estudo.Cors.Controllers;
+package br.com.estudo.Cors.Models;
 
 public class AccountCredentials {
 	
